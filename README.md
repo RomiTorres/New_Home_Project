@@ -35,7 +35,11 @@ Además, si eres amante de los perros, pero no puedes adoptar, tienes la posibil
    
 
 
-    https://github.com/RomiTorres/New_Home_Project/assets/110548507/7d0de09c-d1e0-45f7-b4e1-32d2108c5d6a
+   
+
+
+     https://github.com/RomiTorres/New_Home_Project/assets/110548507/319496fb-a818-4ec4-ba71-03c3589508f9
+
 
 
   
