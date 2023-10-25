@@ -16,9 +16,10 @@ Además, si eres amante de los perros, pero no puedes adoptar, tienes la posibil
   4- En **Experiences** podrás visualizar posteos realizados por usuarios, contando su experiencia ya sea con la adopción o con la mascota.
   5- En **Tips** verás consejos para que la llegada del perro en casa sea una buena experiencia para todos.
   
-https://github.com/RomiTorres/New_Home_Project/assets/110548507/1e864151-5f7a-41d7-be7f-3b215b8812c3
+   https://github.com/RomiTorres/New_Home_Project/assets/110548507/1e864151-5f7a-41d7-be7f-3b215b8812c3
 
 
   
 
-- **Rol Usuario** 
+- **Rol Usuario** , luego de registrarse, al ingresar como usuario además de visualizar en **adopt me** las mascotas en adopción, tendrá los siguientes privilegios:
+   1- 
