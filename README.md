@@ -12,7 +12,7 @@ Además, si eres amante de los perros, pero no puedes adoptar, tienes la posibil
 - **Rol Visitante**, como visitante podrás acceder en primer lugar al **Home**, donde se encuentran dos accesos rápidos para visualizar las mascotas en adopción o las protectoras. <br>
   1- En la pestaña **Adopt me** podrás visualizar las mascotas en adopción con su descripción, se puede filtrar por edad, tamaño o género. <br>
   2- En **Animal Shelter** se encuentra un listado de protectoras, con sus contactos. Se puede filtrar por estado o ciudad. <br>
-  3- En **Lost Animal** podrás ver los animales que usuarios han reportados como perdidos o como que han sido encontrados. <br>
+  3- En **Lost Animal** podrás ver los animales que han sido reportados por usuarios como perdidos o como que han sido encontrados. <br>
   4- En **Experiences** podrás visualizar posteos realizados por usuarios, contando su experiencia ya sea con la adopción o con la mascota. <br>
   5- En **Tips** verás consejos para que la llegada del perro en casa sea una buena experiencia para todos. <br>
   
