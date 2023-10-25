@@ -21,7 +21,14 @@ Además, si eres amante de los perros, pero no puedes adoptar, tienes la posibil
 
   
 
-- **Rol Usuario** , luego de registrarse, al ingresar como usuario además de visualizar en **Adopt me** las mascotas en adopción, tendrá los siguientes privilegios: <br>
+- **Rol Usuario** , en primer lugar deben registrarse, y luego hacer login. Desde aquí podran modificar su perfil.
+
+
+
+     https://github.com/RomiTorres/New_Home_Project/assets/110548507/846f1f88-7d09-4ddc-9757-3971186f261f
+
+
+-    Luego de loguearse, además de visualizar en **Adopt me** las mascotas en adopción, tendrá los siguientes privilegios: <br>
    1- En la pestaña **My aminal** podrá subir una mascota perdida o encontrada, que luego será vista en **Lost animal** por cualquier visitante.<br>
    2- También puede subir una mascota perdida o encontrada desde la pestaña **Lost animal**.<br>
    3- En **Voluntary form**, tendrá la posibilidad de postularse como voluntario para que una protectora contacte con usted. <br>
@@ -29,4 +36,19 @@ Además, si eres amante de los perros, pero no puedes adoptar, tienes la posibil
 
 
     https://github.com/RomiTorres/New_Home_Project/assets/110548507/7d0de09c-d1e0-45f7-b4e1-32d2108c5d6a
+
+
+  
+
+- **Rol Protectora**, si ingresa como protectora tendrá los siguientes privilegios:<br>
+  1- En la pestaña **My animal** podrá subir animales perdidos, encontrados y en condición de adopción.<br>
+  2- Tendrá acceso al listado de voluntarios, filtrarlos por ciudad o por la disponibilidad horaria.
+
+
+
+    https://github.com/RomiTorres/New_Home_Project/assets/110548507/1b37e0c5-7fbc-4e5b-8df6-c402a30c4902
+
+### Administrador
+- Existe el rol **Administrador** donde se puede visualizar la totalidad de usuarios independientemente del rol
+
 
