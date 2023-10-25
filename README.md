@@ -3,7 +3,7 @@
 
 ![Home](https://github.com/RomiTorres/New_Home_Project/assets/110548507/1c27111a-6209-4a59-be45-4b964a7dc31b)
 
-New Home es una plataforma creada para que cada perro encuentre un hogar. Èsto puede ser desde la publicación de cada perro, o contactando con una protectora. <br>
+New Home es una plataforma creada para que cada perro encuentre un hogar. Esto puede ser desde la publicación de cada perro, o contactando con una protectora. <br>
 Además, si eres amante de los perros, pero no puedes adoptar, tienes la posibilidad de inscribirte como voluntario de una protectora.
 
 ## Características y roles
