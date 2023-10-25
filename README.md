@@ -55,4 +55,10 @@ Además, si eres amante de los perros, pero no puedes adoptar, tienes la posibil
 ### Administrador
 - Existe el rol **Administrador** donde se puede visualizar la totalidad de usuarios independientemente del rol
 
+## Responsive
 
+Ésta página web ha sido diseñada tato para ordenadores, como para teblet y móviles 
+
+
+![responsive1](https://github.com/RomiTorres/New_Home_Project/assets/110548507/a2245e40-c1c2-4b65-8dc3-4c39f4a15908)
+![responsive2](https://github.com/RomiTorres/New_Home_Project/assets/110548507/7a8b67cd-cd07-4747-aa29-9657c0105226)
