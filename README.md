@@ -72,6 +72,6 @@ Además, si eres amante de los perros, pero no puedes adoptar, tienes la posibil
   > Python, Flask, Flask SQLAlchemy, PostgresSQL
 
 - APIs
-  > Petfinder
+  > Petfinder <br>
   > Cloudinary
   
