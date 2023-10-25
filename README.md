@@ -1,3 +1,4 @@
 # NEW HOME, QUE CADA MASCOTA TENGA SU HOGAR
 
-![New Home - visitante](https://github.com/RomiTorres/New_Home_Project/assets/110548507/e5326c0c-c5f0-4639-8287-a89fd5f9b289)
+https://github.com/RomiTorres/New_Home_Project/assets/110548507/1e864151-5f7a-41d7-be7f-3b215b8812c3
+
