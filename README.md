@@ -14,7 +14,7 @@ Además, si eres amante de los perros, pero no puedes adoptar, tienes la posibil
   2- En **Animal Shelter** se encuentra un listado de protectoras, con sus contactos. Se puede filtrar por estado o ciudad. <br>
   3- En **Lost Animal** podrás ver los animales que han sido reportados por usuarios como perdidos o como que han sido encontrados. <br>
   4- En **Experiences** podrás visualizar posteos realizados por usuarios, contando su experiencia ya sea con la adopción o con la mascota. <br>
-  5- En **Tips** verás consejos para que la llegada del perro en casa sea una buena experiencia para todos. <br>
+  5- En **Tips** verás consejos para que la llegada del perro a casa sea una buena experiencia para todos. <br>
   
    https://github.com/RomiTorres/New_Home_Project/assets/110548507/1e864151-5f7a-41d7-be7f-3b215b8812c3
 
