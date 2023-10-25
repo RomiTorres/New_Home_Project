@@ -3,7 +3,7 @@
 
 ![Home](https://github.com/RomiTorres/New_Home_Project/assets/110548507/1c27111a-6209-4a59-be45-4b964a7dc31b)
 
-New Home es una plataforma creada para que cada perro encuentre un hogar. Èsto puede ser desde la publicación de cada perro, o contactando con una protectora.
+New Home es una plataforma creada para que cada perro encuentre un hogar. Èsto puede ser desde la publicación de cada perro, o contactando con una protectora. <br>
 Además, si eres amante de los perros, pero no puedes adoptar, tienes la posibilidad de inscribirte como voluntario de una protectora.
 
 ## Características y roles
@@ -21,5 +21,12 @@ Además, si eres amante de los perros, pero no puedes adoptar, tienes la posibil
 
   
 
-- **Rol Usuario** , luego de registrarse, al ingresar como usuario además de visualizar en **adopt me** las mascotas en adopción, tendrá los siguientes privilegios:
-   1- 
+- **Rol Usuario** , luego de registrarse, al ingresar como usuario además de visualizar en **Adopt me** las mascotas en adopción, tendrá los siguientes privilegios: <br>
+   1- En la pestaña **My aminal** podrá subir una mascota perdida o encontrada, que luego será vista en **Lost animal** por cualquier visitante.<br>
+   2- También puede subir una mascota perdida o encontrada desde la pestaña **Lost animal**.<br>
+   3- En **Voluntary form**, tendrá la posibilidad de postularse como voluntario para que una protectora contacte con usted. <br>
+   
+
+
+    https://github.com/RomiTorres/New_Home_Project/assets/110548507/7d0de09c-d1e0-45f7-b4e1-32d2108c5d6a
+
