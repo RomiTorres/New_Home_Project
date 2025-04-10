@@ -14,6 +14,14 @@ New Home es un proyecto destinado a buscar hogar a perros en adopción y a reeco
 
 ### Descripción del proyecto
 
+Home
+
+![Home](https://github.com/user-attachments/assets/bb167e6a-01b1-48c8-8fcd-e094dd699d68)
+
+Se puede elegir visualizar los perros o las protectoras
+
+
+
 To insert test users in the database execute the following command:
 
 ```sh
