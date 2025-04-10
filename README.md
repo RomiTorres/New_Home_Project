@@ -2,7 +2,7 @@
 
 New Home es un proyecto destinado a buscar hogar a perros en adopción y a reecontrar a los perros perdidos con sus dueños.
 
-### 1) Stack utilizado en frontend:
+### Stack utilizado en frontend:
 - React
 - Bootstrap
 
@@ -16,23 +16,47 @@ New Home es un proyecto destinado a buscar hogar a perros en adopción y a reeco
 
 ### Home
 
+
+
+
 ![Home](https://github.com/user-attachments/assets/bb167e6a-01b1-48c8-8fcd-e094dd699d68)
+
+
+
 
 
 Se puede elegir ingresar para ver a los perros o las protectoras
 
 
+
+
+
+
+
 ### Pestaña Adopt me - rol visitante
 
 
+
+
 ![adoptme](https://github.com/user-attachments/assets/2b40dd41-869b-4d30-8ffa-e52841a5d3e3)
+
+
+
+
 
 
 Se visualizan card con los perros en adopción.
 También se puede realizar un filtro por edad, tamaño y/o género.
 
 
+
+
+
+
 ![card adoptme](https://github.com/user-attachments/assets/34aeef02-2b81-4b9c-b7b2-96a6c2b92625)
+
+
+
 
 
 
@@ -40,7 +64,14 @@ También se puede realizar un filtro por edad, tamaño y/o género.
 
 
 
+
+
 ![protectoras](https://github.com/user-attachments/assets/d323f415-f4a4-4991-8583-94bf92626d7c)
+
+
+
+
+
 
 
 
@@ -48,13 +79,29 @@ Se observa un listado de protectoras. En el cual se puede realizar un filtro por
 
 
 
+
+
+
+
 ### Pestaña Lost animal - Found animal
+
+
+
+
 
 
 ![lost animal visitante](https://github.com/user-attachments/assets/6421543f-6092-4af5-b834-39a8ed6fda3d)
 
 
+
+
+
+
 Puedes buscar un perro perdido, o bien, publicar un perro encontrado
+
+
+
+
 
 
 ### Pestaña Become a volunteer
@@ -67,11 +114,20 @@ Puedes buscar un perro perdido, o bien, publicar un perro encontrado
 
 
 
+
+
+
+
 Si quieres colaborar como voluntario, se puede rellenar un formulario, para que luego se pongan en contacto contigo.
 
 
 
+
+
 ![listado de voluntarios](https://github.com/user-attachments/assets/45e21f9e-ab24-4912-89c0-73388821e60f)
+
+
+
 
 
 
@@ -80,11 +136,16 @@ Todos los datos quedan registrados en la base de datos
 
 
 
+
+
+
 ### Pestaña Esperciences
 
 
 
+
 ![ver experiencias como visitante](https://github.com/user-attachments/assets/445cd732-bf4c-4cf0-b4ca-78bbc983b59e)
+
 
 
 
