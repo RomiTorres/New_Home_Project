@@ -20,16 +20,16 @@ New Home es un proyecto destinado a buscar hogar a perros en adopción y a reeco
 
 Se puede elegir visualizar los perros o las protectoras
 
+### Pestaña Adopt me - rol visitante
+
+![adoptme](https://github.com/user-attachments/assets/2b40dd41-869b-4d30-8ffa-e52841a5d3e3)
+
+Se visualizan card con los perros en adopción.
+También se puede realizar un filtro por edad, tamaño y/o género.
 
 
+![card adoptme](https://github.com/user-attachments/assets/34aeef02-2b81-4b9c-b7b2-96a6c2b92625)
 
-
-
-
-
-### **Important note for the database and the data inside it**
-
-Every Github codespace environment will have **its own database**, so if you're working with more people eveyone will have a different database and different records inside it. This data **will be lost**, so don't spend too much time manually creating records for testing, instead, you can automate adding records to your database by editing ```commands.py``` file inside ```/src/api``` folder. Edit line 32 function ```insert_test_data``` to insert the data according to your model (use the function ```insert_test_users``` above as an example). Then, all you need to do is run ```pipenv run insert-test-data```.
 
 ### Front-End Manual Installation:
 
