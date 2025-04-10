@@ -2,19 +2,17 @@
 
 New Home es un proyecto destinado a buscar hogar a perros en adopción y a reecontrar a los perros perdidos con sus dueños.
 
-### 1) Stack utilizado en front:
+### 1) Stack utilizado en frontend:
 - React
 - Bootstrap
 
-### Undo a migration
+### Stack utilizado en el backend
 
-You are also able to undo a migration by running
+- Python
+- SQLAlchemy
+- APIs (cloudinary, petfinder)
 
-```sh
-$ pipenv run downgrade
-```
-
-### Backend Populate Table Users
+### Descripción del proyecto
 
 To insert test users in the database execute the following command:
 
