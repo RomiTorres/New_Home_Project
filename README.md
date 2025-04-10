@@ -48,13 +48,13 @@ Se observa un listado de protectoras. En el cual se puede realizar un filtro por
 
 
 
-### Pestaña Lost animal - visitante
+### Pestaña Lost animal - Found animal
 
 
 ![lost animal visitante](https://github.com/user-attachments/assets/6421543f-6092-4af5-b834-39a8ed6fda3d)
 
 
-Con el rol visitante, puedes ingresar para buscar tu perro perdido.
+Puedes buscar un perro perdido, o bien, publicar un perro encontrado
 
 
 ### Pestaña Become a volunteer
@@ -77,6 +77,66 @@ Si quieres colaborar como voluntario, se puede rellenar un formulario, para que 
 
 Todos los datos quedan registrados en la base de datos
 
+
+
+
+### Pestaña Esperciences
+
+
+
+![ver experiencias como visitante](https://github.com/user-attachments/assets/445cd732-bf4c-4cf0-b4ca-78bbc983b59e)
+
+
+
+
+Los usuarios pueden contar sus esperiencias, ya sea adoptando o reencontrándose con sus perros.
+
+
+
+
+
+### Pestaña Tips
+
+
+
+
+![tips](https://github.com/user-attachments/assets/05ab968d-0785-4084-99cd-4b43aa97b580)
+
+
+
+De la mano de profesionales, encontraras tips para ayudarte con el cuidado la educación de tu mascota
+
+
+
+
+
+### Usuario registrado
+
+
+
+
+![myanimal](https://github.com/user-attachments/assets/90a46d12-d735-4792-a453-aaa0ad1bcffa)
+
+
+
+Como usuario registrado, puedes publicar tu mascota perdida, o si has encontrado y buscas su familia.
+
+
+
+### Diseño responsive
+
+
+
+
+
+![responsive1](https://github.com/user-attachments/assets/9c04fc48-4951-45c0-8e19-a09678ce5de4)
+
+
+
+
+
+
+![responsive2](https://github.com/user-attachments/assets/1a4fa327-cd8c-4379-9b1e-beb2bd9c25d4)
 
 
 
