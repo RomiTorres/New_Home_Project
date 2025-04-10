@@ -14,7 +14,7 @@ New Home es un proyecto destinado a buscar hogar a perros en adopción y a reeco
 
 ### Descripción del proyecto
 
-Home
+### Home
 
 ![Home](https://github.com/user-attachments/assets/bb167e6a-01b1-48c8-8fcd-e094dd699d68)
 
@@ -22,23 +22,10 @@ Se puede elegir visualizar los perros o las protectoras
 
 
 
-To insert test users in the database execute the following command:
 
-```sh
-$ flask insert-test-users 5
-```
 
-And you will see the following message:
 
-```
-  Creating test users
-  test_user1@test.com created.
-  test_user2@test.com created.
-  test_user3@test.com created.
-  test_user4@test.com created.
-  test_user5@test.com created.
-  Users created successfully!
-```
+
 
 ### **Important note for the database and the data inside it**
 
